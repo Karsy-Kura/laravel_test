@@ -1,0 +1,10 @@
+1. PHP
+2. Model
+3. View
+4. Controller
+5. HTTPメソッド
+6. GET
+7. POST
+8. PUT
+9. Routes
+10. Blade
